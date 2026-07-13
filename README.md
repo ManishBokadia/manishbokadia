@@ -1,16 +1,51 @@
-## Hi there 👋
+# Hi, I'm Manish Bokadia 👋
 
-<!--
-**ManishBokadia/manishbokadia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Data Analyst | Ex-Capgemini
 
-Here are some ideas to get you started:
+I am a Data Analyst with 2+ years of experience in transforming raw data into meaningful business insights using SQL, Power BI, Python, Tableau, and Machine Learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+---
+
+## 🛠 Skills
+
+- SQL (MySQL)
+- Power BI
+- Python
+- Tableau
+- Excel
+- Machine Learning
+- Data Visualization
+- Exploratory Data Analysis
+
+---
+
+## 📂 Featured Projects
+
+### 📊 Retail Sales SQL Analytics
+Business analysis using SQL, CTEs, Window Functions, and ABC Analysis.
+
+### 📈 Retail Sales Power BI Dashboard
+Interactive dashboard with KPIs, customer insights, regional analysis, and product performance.
+
+### 🤖 Fraud Detection
+Machine Learning model for detecting fraudulent transactions.
+
+### 📉 Tesla Stock Prediction
+Stock market prediction using Python and Machine Learning.
+
+### 💳 Credit Risk Prediction
+Predicting customer credit risk using classification models.
+
+---
+
+## 📫 Connect with Me
+
+- LinkedIn: https://www.linkedin.com/in/manish-bokadia-493862159/
+- Email: manishbokadia13@gmail.com
+
+---
+⭐ Thanks for visiting my GitHub profile!
+
+
 - ⚡ Fun fact: ...
 -->
