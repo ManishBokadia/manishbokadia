@@ -50,6 +50,3 @@ Predicting customer credit risk using classification models.
 ---
 ⭐ Thanks for visiting my GitHub profile!
 
-
-- ⚡ Fun fact: ...
--->
